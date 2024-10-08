@@ -10,3 +10,4 @@ class LibraryMember(Document):
 		self.full_name = f'{self.first_name} {self.last_name or ""}'
 		self.full_name = "Shruti"
 		#self.name = "temp"
+		#self.name = "temp1"
